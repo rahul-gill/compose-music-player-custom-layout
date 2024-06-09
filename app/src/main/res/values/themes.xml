@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Tmp_test_for_blog" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
